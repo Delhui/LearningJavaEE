@@ -1,6 +1,8 @@
 ## 前言
 小给Java小白的学习资料，采用贴近生活的语言来描述Java知识点。
 
+任何问题请联系[作者](mailto:delhui2014@hotmail.com)。
+
 
 
 ## Part 1: 语言基础
